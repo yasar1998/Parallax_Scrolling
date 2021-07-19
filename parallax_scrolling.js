@@ -7,8 +7,7 @@ function parallaxScroll(){
    var scrolled = $(window).scrollTop(); 
    $('.layer-1').css('top',(0-(scrolled*0.25))+'px');
    $(window).scrollLeft();
-   $('.layer-2').css('left',(scrolled*2)+'px');
-   $('.layer-3').css('left',(0-scrolled*2)+'px');
+   $('.layer-2').css('left',(scrolled*2.5)+'px');
   
   
 
