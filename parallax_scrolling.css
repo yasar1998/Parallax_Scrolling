@@ -64,15 +64,6 @@ h1 {
   z-index: 70;
 }
 
-.layer-3{
-  width: 500px;
-  height: 500px;
-  background-image: url("https://www.pngplay.com/wp-content/uploads/6/Football-Sports-Ball-Transparent-PNG.png");
-  transform: translate(400%, 0%); 
-  top: 25%;
-  z-index: 70;
-}
-
 .content {
   width: 100vw;
   height: 1000px;
@@ -85,11 +76,11 @@ h1 {
 
 .text {
   position: absolute;
-  top: 80%;
+  top: 73%;
   left: 50%;
   transform: translate(-50%, -50%); 
   z-index: 100;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: white;
   background-color: blue;
 }
