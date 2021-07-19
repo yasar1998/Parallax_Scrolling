@@ -32,6 +32,7 @@ body {
 }
 
 h1 {
+  text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -40,7 +41,7 @@ h1 {
   font-family: 'Gruppo', cursive;
   text-transform: uppercase;
   letter-spacing: 0.5rem;
-  font-size: 3rem;
+  font-size: 2rem;
   color: white;
   text-shadow: 2px 2px 5px;
   background-color: #3d195b;
@@ -58,7 +59,7 @@ h1 {
 .layer-2{
   width: 500px;
   height: 500px;
-  background-image: url("https://www.pngplay.com/wp-content/uploads/6/Football-Sports-Ball-Transparent-PNG.png");
+  background-image: url("http://assets.stickpng.com/thumbs/580b585b2edbce24c47b2b84.png");
   transform: translate(-100%, 0%); 
   top: 25%;
   z-index: 70;
